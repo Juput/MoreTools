@@ -1,0 +1,21 @@
+[
+{
+  "modid": "moreTools",
+  "name": "More Tools",
+  "description": "A little mod to learn about modding",
+  "version": "1.0",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [
+    "Shiruka"
+  ],
+  "credits": "Coded by Shiruka.",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
