@@ -2,15 +2,15 @@
 {
   "modid": "MoreTools",
   "name": "More Tools",
-  "description": "A little mod to learn about modding",
+  "description": "A mod to learn modding and that adds some new tools to MC",
   "version": "1.0",
   "mcversion": "1.7.10",
   "url": "",
   "updateUrl": "",
   "authorList": [
-    "Shiruka"
+ "Shiruka"
   ],
-  "credits": "Coded by Shiruka.",
+  "credits": "Code by Shiruka",
   "logoFile": "",
   "screenshots": [
   ],
