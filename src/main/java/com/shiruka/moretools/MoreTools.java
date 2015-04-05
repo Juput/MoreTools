@@ -8,6 +8,9 @@ import cpw.mods.fml.common.event.FMLPreInitializationEvent;
 @Mod(modid="MoreTools", name="More Tools", version="1.7.10-1.0")
 public class MoreTools
 {
+    @Mod.Instance("MoreTools")
+    public static MoreTools instance;
+
     @Mod.EventHandler
     public void preInit(FMLPreInitializationEvent event)
     {
