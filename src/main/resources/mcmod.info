@@ -3,7 +3,7 @@
   "modid": "MoreTools",
   "name": "More Tools",
   "description": "A mod to learn modding and that adds some new tools to MC",
-  "version": "1.0",
+  "version": "$VERSION",
   "mcversion": "1.7.10",
   "url": "",
   "updateUrl": "",
